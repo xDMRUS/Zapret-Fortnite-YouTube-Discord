@@ -1,0 +1,50 @@
+youtube.com
+*.youtube.com
+youtu.be
+*.youtu.be
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+*.googlevideo.com
+yt3.ggpht.com
+*.ytimg.com
+i.ytimg.com
+s.ytimg.com
+*.gvt1.com
+*.gvt2.com
+*.googleusercontent.com
+# Discord - разрешён
+discord.com
+*.discord.com
+discord.gg
+*.discord.gg
+discordapp.com
+*.discordapp.com
+discordapp.net
+*.discordapp.net
+discordstatus.com
+*.discordstatus.com
+discord.media
+*.discord.media
+dl.discordapp.net
+*.dl.discordapp.net
+cdn.discordapp.com
+*.cdn.discordapp.com
+media.discordapp.net
+*.media.discordapp.net
+images-ext-1.discordapp.net
+*.images-ext-1.discordapp.net
+images-ext-2.discordapp.net
+*.images-ext-2.discordapp.net
+voice-js.discordapp.net
+*.voice-js.discordapp.net
+gateway.discord.gg
+*.gateway.discord.gg
+status.discord.com
+*.status.discord.com
+------Fortnite
+signin. aws.amazon .com
+s3. amazonaws .com
+amazonaws .com
+awsapps. com
+sso. amazonaws .com
