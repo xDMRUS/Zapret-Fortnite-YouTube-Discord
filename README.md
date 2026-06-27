@@ -1,12 +1,12 @@
 # Zapret Revers (Реверсивная версия)
 
-Кастомная сборка и充конфигурация утилиты Zapret для точечного обхода блокировок. Работает в реверс-режиме: обрабатывает только заданные сервисы не затрагивая и не замедляя остальной интернет-трафик.
+Кастомная сборка и конфигурация утилиты Zapret для точечного обхода блокировок. Работает в реверс-режиме: обрабатывает только заданные сервисы не затрагивая и не замедляя остальной интернет-трафик.
 
 ### 🚀 Что исправлено и работает:
 
-* <img src="https://cdn.simpleicons.org/youtube/FF0000" width="20" height="20" align="center" /> **YouTube** — высокое качество, стабильная загрузка видео без лагов.
-* <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" height="20" align="center" /> **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
-* <img src="https://cdn.simpleicons.org/fortnite/0078F2" width="20" height="20" align="center" /> **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
+* <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="20" height="20" style="vertical-align: middle; filter: drop-shadow(0px 0px 0px transparent);" /> **YouTube** — высокое качество, стабильная загрузка видео без лагов.
+* <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="20" height="20" style="vertical-align: middle;" /> **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
+* <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortnite.svg" width="20" height="20" style="vertical-align: middle;" /> **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
 ---
 
 ### 🛠 Инструкция по установке
