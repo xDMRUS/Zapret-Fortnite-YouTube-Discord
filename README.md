@@ -10,9 +10,9 @@
 
 ### 🚀 Что исправлено и работает:
 
-- ![YouTube](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg) — высокое качество, без лагов
-- ![Discord](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg) — voice-чаты, картинки и подключение
-- ![Fortnite](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortnite.svg) — исправлена ошибка подключения к серверам Epic Games
+- ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=FF0000) — высокое качество, без лагов
+- ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2) — voice-чаты, картинки и подключение
+- ![Fortnite](https://img.shields.io/badge/-Fortnite-000000?style=flat&logo=fortnite&logoColor=white&labelColor=000000) — исправлена ошибка подключения к серверам Epic Games
 ---
 
 ### 🛠 Инструкция по установке
