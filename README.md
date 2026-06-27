@@ -4,9 +4,9 @@
 
 ### 🚀 Что исправлено и работает:
 
-* <img src="https://simpleicons.org/icons/youtube.svg" width="20" height="20" style="vertical-align: middle; filter: invert(12%) sepia(95%) saturate(7233%) hue-rotate(360deg) brightness(100%) contrast(106%);" /> **YouTube** — высокое качество, стабильная загрузка видео без лагов.
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="20" height="20" style="vertical-align: middle; filter: invert(41%) sepia(76%) saturate(1430%) hue-rotate(209deg) brightness(98%) contrast(93%);" /> **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fortnite.svg" width="20" height="20" style="vertical-align: middle; filter: invert(33%) sepia(91%) saturate(3020%) hue-rotate(197deg) brightness(97%) contrast(101%);" /> **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
+* <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo_youtube_icon_%282017%29.svg" width="20" height="20" align="center" /> **YouTube** — высокое качество, стабильная загрузка видео без лагов.
+* <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Discord_顏文字_徽章_-_Discord_Emoticon_Badge.svg" width="20" height="20" align="center" /> **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
+* <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_letter_logo.svg" width="20" height="20" align="center" /> **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
 ---
 
 ### 🛠 Инструкция по установке
