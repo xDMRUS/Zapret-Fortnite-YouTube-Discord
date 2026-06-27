@@ -4,9 +4,9 @@
 
 ### 🚀 Что исправлено и работает:
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo_youtube_icon_%282017%29.svg" width="20" height="20" align="center" /> **YouTube** — высокое качество, стабильная загрузка видео без лагов.
-* <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Discord_顏文字_徽章_-_Discord_Emoticon_Badge.svg" width="20" height="20" align="center" /> **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
-* <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_letter_logo.svg" width="20" height="20" align="center" /> **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
+* ![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=flat&logo=youtube&logoColor=white) **YouTube** — высокое качество, стабильная загрузка видео без лагов.
+* ![Discord](https://img.shields.io/badge/-%235865F2.svg?style=flat&logo=discord&logoColor=white) **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
+* ![Fortnite](https://img.shields.io/badge/-%230078F2.svg?style=flat&logo=fortnite&logoColor=white) **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
 ---
 
 ### 🛠 Инструкция по установке
