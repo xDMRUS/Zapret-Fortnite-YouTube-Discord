@@ -6,7 +6,7 @@
 
 * ![YouTube](https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?logo=YouTube&logoColor=white) — высокое качество, стабильная загрузка видео без лагов.
 * ![Discord](https://img.shields.io/badge/DISCORD-%235865F2.svg?logo=discord&logoColor=white) — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
-* ![Fortnite](https://img.shields.io/badge/-%230078F2.svg?logo=fortnite&logoColor=white) — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
+* ![Fortnite](https://img.shields.io/badge/FORTNITE-%230078F2.svg?style=flat&logo=fortnite&logoColor=white) — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
 ---
 
 ### 🛠 Инструкция по установке
