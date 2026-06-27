@@ -1,20 +1,19 @@
 <div align="center">
   <h1>Zapret Revers</h1>
-  <p><strong>Реверсивная версия</strong></p>
-
-  ![GitHub stars](https://img.shields.io/github/stars/ТВОЙ_НИК/Zapret-Revers?style=for-the-badge&color=ffd700)
-  ![License](https://img.shields.io/github/license/ТВОЙ_НИК/Zapret-Revers?style=for-the-badge)
-
-  <br/>
-
-  ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  ![Fortnite](https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=fortnite&logoColor=white)
+  <h3>Реверсивная версия</h3>
 </div>
+
+**Кастомная сборка** утилиты Zapret для точечного обхода блокировок.  
+Работает в **реверс-режиме**: обрабатывает только заданные сервисы, не затрагивая остальной трафик.
 
 ---
 
-**Кастомная сборка** утилиты Zapret для точечного обхода блокировок в реверс-режиме.
+### 🚀 Что исправлено и работает:
+
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) — высокое качество, без лагов
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) — voice-чаты, картинки и подключение
+- ![Fortnite](https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=fortnite&logoColor=white) — исправлена ошибка подключения к серверам Epic Games
+
 ---
 
 ### 🛠 Инструкция по установке
