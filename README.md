@@ -1,12 +1,20 @@
-# Zapret Revers (Реверсивная версия)
+<div align="center">
+  <h1>Zapret Revers</h1>
+  <p><strong>Реверсивная версия</strong></p>
 
-Кастомная сборка и конфигурация утилиты Zapret для точечного обхода блокировок. Работает в реверс-режиме: обрабатывает только заданные сервисы не затрагивая и не замедляя остальной интернет-трафик.
+  ![GitHub stars](https://img.shields.io/github/stars/ТВОЙ_НИК/Zapret-Revers?style=for-the-badge&color=ffd700)
+  ![License](https://img.shields.io/github/license/ТВОЙ_НИК/Zapret-Revers?style=for-the-badge)
 
-### 🚀 Что исправлено и работает:
+  <br/>
 
-* <img src="https://cdn.simpleicons.org/youtube/%23FF0000" width="18" height="18" align="center" /> **YouTube** — высокое качество, стабильная загрузка видео без лагов.
-* <img src="https://cdn.simpleicons.org/discord/%235865F2" width="18" height="18" align="center" /> **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
-* <img src="https://cdn.simpleicons.org/fortnite/%230078F2" width="18" height="18" align="center" /> **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
+  ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Fortnite](https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=fortnite&logoColor=white)
+</div>
+
+---
+
+**Кастомная сборка** утилиты Zapret для точечного обхода блокировок в реверс-режиме.
 ---
 
 ### 🛠 Инструкция по установке
