@@ -10,11 +10,9 @@
 
 ### 🚀 Что исправлено и работает:
 
-### 🚀 Что исправлено и работает:
-
-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white) — высокое качество, без лагов
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white) — voice-чаты, картинки и подключение
-- ![Fortnite](https://img.shields.io/badge/Fortnite-%23000000.svg?style=flat&logo=fortnite&logoColor=white) — исправлена ошибка подключения к серверам Epic Games
+- <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" height="20"> — высокое качество, без лагов
+- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" height="20"> — voice-чаты, картинки и подключение  
+- <img src="https://img.shields.io/badge/Fortnite-%23000000.svg?style=flat&logo=fortnite&logoColor=white" height="20"> — исправлена ошибка подключения к серверам Epic Games
 ---
 
 ### 🛠 Инструкция по установке
