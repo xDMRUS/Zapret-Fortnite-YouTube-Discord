@@ -2,16 +2,13 @@
 
 Кастомная сборка и конфигурация утилиты Zapret для точечного обхода блокировок. Работает в реверс-режиме: обрабатывает только заданные сервисы не затрагивая и не замедляя остальной интернет-трафик.
 
----
-
 ### 🚀 Что исправлено и работает:
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Fortnite](https://img.shields.io/badge/Fortnite-%230078F2.svg?style=for-the-badge&logo=fortnite&logoColor=white)
+![YouTube](https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=square&logo=YouTube&logoColor=white) ![Discord](https://img.shields.io/badge/DISCORD-%235865F2.svg?style=square&logo=discord&logoColor=white) ![Fortnite](https://img.shields.io/badge/%20-0078F2?style=square&logo=fortnite&logoColor=white)
 
-*   **YouTube** — высокое качество, стабильная загрузка видео без лагов.
-*   **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
-*   **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
-
+* **YouTube** — высокое качество, стабильная загрузка видео без лагов.
+* **Discord** — голосовые чаты (Voice), прогрузка картинок и стабильное подключение.
+* **Fortnite** — исправлена бесконечная загрузка и ошибка подключения к серверам Epic Games.
 ---
 
 ### 🛠 Инструкция по установке
