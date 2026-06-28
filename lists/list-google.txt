@@ -16,9 +16,7 @@ youtu.be
 yt-video-upload.l.google.com
 ytimg.com
 ytimg.l.google.com
-*.googlevideo.com
-*.ytimg.com
-*.youtube.com
-*.youtu.be
 m.youtube.com
 www.youtube.com
+play.google.com
+google.ru
